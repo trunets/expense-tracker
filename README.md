@@ -1,0 +1,1 @@
+This is my first github commit project. It's a expense tracking query system.
