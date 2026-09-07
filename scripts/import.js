@@ -28,4 +28,5 @@ parse(csvContent, {
         }
     )
   })
+  db.close();
 });
